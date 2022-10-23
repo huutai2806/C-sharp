@@ -1,0 +1,6 @@
+E:\C#\C# Language Basic origrams with examples\12.Program  to Calculate Area of Square\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\C#\C# Language Basic origrams with examples\12.Program  to Calculate Area of Square\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\C#\C# Language Basic origrams with examples\12.Program  to Calculate Area of Square\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\C#\C# Language Basic origrams with examples\12.Program  to Calculate Area of Square\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\C#\C# Language Basic origrams with examples\12.Program  to Calculate Area of Square\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\C#\C# Language Basic origrams with examples\12.Program  to Calculate Area of Square\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
