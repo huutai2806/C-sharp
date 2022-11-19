@@ -1,0 +1,11 @@
+E:\C#\RegisterAndLogin\bin\Debug\RegisterAndLogin.exe.config
+E:\C#\RegisterAndLogin\bin\Debug\RegisterAndLogin.exe
+E:\C#\RegisterAndLogin\bin\Debug\RegisterAndLogin.pdb
+E:\C#\RegisterAndLogin\obj\Debug\RegisterAndLogin.csprojAssemblyReference.cache
+E:\C#\RegisterAndLogin\obj\Debug\RegisterAndLogin.Login.resources
+E:\C#\RegisterAndLogin\obj\Debug\RegisterAndLogin.Properties.Resources.resources
+E:\C#\RegisterAndLogin\obj\Debug\RegisterAndLogin.Register.resources
+E:\C#\RegisterAndLogin\obj\Debug\RegisterAndLogin.csproj.GenerateResource.cache
+E:\C#\RegisterAndLogin\obj\Debug\RegisterAndLogin.csproj.CoreCompileInputs.cache
+E:\C#\RegisterAndLogin\obj\Debug\RegisterAndLogin.exe
+E:\C#\RegisterAndLogin\obj\Debug\RegisterAndLogin.pdb
